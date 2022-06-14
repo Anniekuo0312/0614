@@ -1,0 +1,142 @@
+@charset "utf-8";
+.BOX2 {
+    width: 300px;
+    height: 350px;
+    background-color: #959592;
+    border-radius: 20px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-content: center;
+    margin-top: 0px;
+    padding-top: 23px;
+    margin-bottom: 40px;
+}
+.CONTAINER {
+    display: flex;
+    justify-content: space-around;
+}
+
+.BOX3 {
+    background-color: #D2D2D2;
+    width: 300px;
+    height: 350px;
+    border-radius: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    padding-top: 0px;
+    margin-right: 8px;
+    margin-top: 45px;
+}
+.header {
+    text-align: center;
+    font-size: xx-large;
+    color: #C0BFC4;
+    margin-bottom: 83px;
+
+}
+.container2 {
+    justify-content: space-around;
+    display: flex;
+}
+
+body h3 {
+    background-color: #090909;
+    text-align: center;
+    opacity: 1;
+    z-index: 1000;
+    color: #FEFEFE;
+}
+.box4 {
+    width: 300px;
+    height: 350px;
+    background-color: #B5B5B5;
+    padding-top: 0px;
+    padding-right: 46px;
+    border-radius: 20px;
+    margin-right: 10px;
+    margin-left: 10px;
+    text-align: center;
+    padding-bottom: 10px;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    margin-bottom: 40px;
+}
+.CONTAINER .box5 {
+    background-color: #C8C8C8;
+    width: 300px;
+    height: 352px;
+    text-align: center;
+    border-radius: 20px;
+    justify-content: center;
+    align-content: center;
+    margin-bottom: 40px;
+}
+.container2 .box6 {
+    width: 300px;
+    height: 350px;
+    background-color: #AFABAB;
+    text-align: center;
+    border-radius: 20px 20px 20px 19px;
+    margin-right: 8px;
+    justify-content: center;
+    align-content: center;
+    margin-top: 40px;
+}
+.container2 .box7 {
+    width: 300px;
+    height: 300px;
+    background-color: #C8C8C8;
+    border-radius: 20px;
+    text-align: center;
+    justify-content: center;
+    align-content: center;
+    margin-top: 40px;
+}
+#a01 {
+}
+#a02 {
+}
+body img {
+    background-position: center center;
+    background-color: #EEE5E5;
+    right: auto;
+    width: 100%;
+    height: 200px;
+    padding-bottom: 0px;
+    padding-top: 0px;
+    opacity: 1;
+}
+.header nav .wow.bounceIn {
+    width: 100%;
+    height: 52px;
+    opacity: 1;
+    z-index: 1000;
+    background-color: #333333;
+}
+.header nav p {
+    font-size: small;
+    color: #131111;
+    height: 0px;
+}
+nav header ul {
+    font-size: medium;
+    display: inline;
+    width: 100%;
+    text-align: center;
+}
+header p .wow.fadeIn {
+    background-color: #757575;
+    color: #FDFBFB;
+    font-size: large;
+    padding-top: 25px;
+    padding-bottom: 26px;
+    padding-right: 40px;
+    padding-left: 40px;
+    border-radius: 32px;
+}
